@@ -32,7 +32,7 @@ This project is a web application for predicting house prices in Boston using a 
    ```bash
    python app.py
    ```
-2. Open your web browser and go to `https://boston-house-pricing-mlops-projects.onrender.com`.
+2. Open your web browser and go to https://boston-house-pricing-mlops-projects.onrender.com
 
 3. Enter the required input values for house features and click on the "Predict" button to get the house price prediction.
 
@@ -77,11 +77,6 @@ You can install these dependencies using the command:
 pip install -r requirements.txt
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
