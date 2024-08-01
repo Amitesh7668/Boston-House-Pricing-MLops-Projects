@@ -15,11 +15,11 @@ This project is a web application for predicting house prices in Boston using a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/boston-house-price-prediction.git
+   git clone https://github.com/Amitesh7668/Boston-House-Pricing-MLops-Projects
    ```
 2. Navigate to the project directory:
    ```bash
-   cd boston-house-price-prediction
+   cd boston-house-pricing-MLops-Projects
    ```
 3. Install the required dependencies:
    ```bash
@@ -32,7 +32,7 @@ This project is a web application for predicting house prices in Boston using a 
    ```bash
    python app.py
    ```
-2. Open your web browser and go to `http://127.0.0.1:5000/`.
+2. Open your web browser and go to https://boston-house-pricing-mlops-projects.onrender.com
 
 3. Enter the required input values for house features and click on the "Predict" button to get the house price prediction.
 
@@ -77,13 +77,6 @@ You can install these dependencies using the command:
 pip install -r requirements.txt
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can save this content in a file named `README.md` in your project directory. Adjust the content if necessary, especially the repository URL and any specific details about your implementation.
